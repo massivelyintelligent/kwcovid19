@@ -1,2 +1,3 @@
-Scrap Date,First Dose,First Dose % of Eligible Population,Two Doses,Two Doses % of Eligible Population,Booster Doses,Date Updated
-25/12/2021,"3,330,570",84.92%,"3,211,654",81.89%,"324,929",12/24/2021 21:00:00
+First Dose,First Dose % of Eligible Population,Two Doses,Two Doses % of Eligible Population,Booster Doses,Date Updated,Total People Vaccinated on Day
+"3,330,570",84.92%,"3,211,654",81.89%,"324,929",12/24/2021 21:00:00,0
+"3,330,945",84.93%,"3,212,103",81.90%,"331,619",12/25/2021 14:00:00,"7,514"
